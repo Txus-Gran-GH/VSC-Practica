@@ -11,4 +11,11 @@ Reflexionar futuras mejoras <br>
 
 
 
-    
+Aprender como relacionar los ficheros.
+Utilizar dataview
+Usar las etiquetas (#)
+
+Lo primero es diseñar en palpel todo el flujo, que información debe viajar.
+
+Cual es el comienzo prefrerdo, la nota diaria o la tarea -> pensar
+
