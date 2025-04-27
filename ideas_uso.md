@@ -6,3 +6,10 @@ nuevas ideas de uso queremos hacer desde el navegador de VSC, que nos deja traba
 
 Debemos dejar constancia de todo y explicado.
 
+# Conexiones entre bases de datos
+# utilizacion de inteligencia artificial -> guardar los prompts
+# avanzar en el uso de sus virtudes, y alcanzar un pleno dominio
+# servidores, ese gran desconocido, estudia
+# gesionar n8n y sobre todo el uso de sus agentes
+
+
